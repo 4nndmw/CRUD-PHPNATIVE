@@ -1,0 +1,37 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+h1 {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 10vh;
+  background-color: rgb(235, 172, 0);
+  color: white;
+}
+
+form {
+  display: flex;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 40px;
+}
+
+li {
+  list-style: none;
+}
+
+button {
+  margin-top: 30px;
+}
+
+h4 a {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 10vh;
+  color: black;
+}
