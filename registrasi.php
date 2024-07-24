@@ -43,6 +43,8 @@
                  </li>
                  <li>
                      <button type="submit" name="register" id="submit">submit</button>
+                     <a href="login.php">Login</a>
+
                  </li>
 
              </ul>
